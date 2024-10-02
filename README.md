@@ -6,11 +6,11 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: [Jorge Herrera]
+* Ocupación: [Web Developer]
+* Lugar de residencia: [Ecuador - Guayaquil]
+* Sitio web: [[MyWebsite](https://jorgeshn14.github.io/JorgeSHN14/)]
 ## Proyectos
-* [Lista de tus proyectos]
+* [[SheinPol](https://github.com/JorgeSHN14/SheinPol)]
 ## Intereses
-* [Lista de tus intereses]
+* [Crear una aplicación de impacto mundial]
