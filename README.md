@@ -12,6 +12,6 @@ proyectos y mis intereses.
 * Sitio web: [MyWebsite](https://jorgeshn14.github.io/JorgeSHN14/)
 ## Proyectos
 * [SheinPol](https://github.com/JorgeSHN14/SheinPol)
-** Almacena información de compras realizadas para el posterior tratamiento de la data
+ - Almacena información de compras realizadas para el posterior tratamiento de la data
 ## Intereses
 * Crear una aplicación de impacto mundial
